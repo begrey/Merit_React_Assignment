@@ -1,0 +1,49 @@
+.container {
+    color: #1c1c1c;
+    padding-top: 1rem;
+    background-color: #edf1ff;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .row_logo {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding-top: 1rem;
+    color: #1c1c1c;
+  }
+  .div_logo {
+    padding-right: 1rem;
+    flex: 0 0 33.33333%;
+    max-width: 33.33333%;
+    position: relative;
+    width: 100%;
+    padding-left: 15px;
+  }
+  
+  .h1 {
+    font-weight: 900;
+    color: black;
+  }
+  
+  .row_copyright {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+  .div_copyright {
+    flex: 0 0 50%;
+    max-width: 50%;
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  

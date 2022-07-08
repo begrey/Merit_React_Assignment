@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #6f6f6f;
+    text-align: left;
+    background-color: #fff;
+  }
+  a {
+    outline: none;
+    color: #1c1c1c;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+    color: #d19c89;
+  }
+  
+  .a_width {
+    padding: 20px 10px;
+  }
+  input:focus {
+    outline: none;
+  }
+  
